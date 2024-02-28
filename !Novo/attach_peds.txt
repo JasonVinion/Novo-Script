@@ -1,0 +1,556 @@
+0xc79f6928, Beach
+0x445ac854, Beverly Hills
+0x5c2cf7f8, Beverly Hills 2
+0x20c8012f, Beverly Hills 3
+0x36df2d5d, Beverly Hills 4
+0x2799efd8, Business
+0x31430342, Business 2
+0xae86fdb4, Business 3
+0xb7c61032, Business 4
+0xf5b0079d, East SA
+0x438a4ae, East SA 2
+0x51c03fa4, East SA 3
+0x689c2a80, Epsilon
+0x457c64fb, Fitness
+0x13c4818c, Fitness 2
+0x2f4aec3e, Hot
+0x7dd8fb58, Golfer
+0x30830813, Hiker
+0x1475b827, Hippie
+0x8247d331, Hipster
+0x97f5fe8d, Hipster 2
+0xa5ba9a16, Hipster 3
+0x199881dc, Hipster 4
+0x92d9cc1, Indian
+0xdb134533, Juggalo
+0xc7496729, Runner
+0x3f789426, Meth Head
+0x695fe666, Skater
+0xdb5ec400, SC Dress
+0x2c641d7a, Soucent
+0x5a8ef9cf, Soucent 2
+0x87b25415, Soucent 3
+0x550c79c6, Tennis
+0x9cf26183, Topless
+0x563b8570, Tourist
+0x9123fb40, Tourist 2
+0x19f41f65, Vinewood
+0xdab6a0eb, Vinewood 2
+0x379ddab8, Vinewood 3
+0xfae46146, Vinewood 4
+0xc41b062e, Yoga
+0x5d71a46f, Hostess
+0x69f46bf3, Factory
+0xd55b2bf5, Migrant
+0x2300c816, Movie Premiere
+0xab594ab6, Scrubs
+0xa96e2604, Shopper Low
+0x3eecba5d, Shopper Mid
+0x8502b6b2, Sweatshop
+0xfa389d4f, Biker Chick
+0xb6aa85ce, Com Jane
+0x969b6dfe, Hot Posh
+0xf0d4be2e, Jewel Assistant
+0x5dca2528, Mistress
+0xd2e3a284, Princess
+0x5b81d86c, Spy Actress
+0x303638a7, Beach
+0xbe086efd, Beverly Hills
+0xa039335f, Beverly Hills 2
+0x3bd99114, Body Builder
+0x1fc37dbc, Business
+0x654ad86e, Downtown
+0x9d3dcb7a, East SA
+0x63c8d891, East SA 2
+0xfab48bcb, Fat Black
+0xb5cf80e4, Fat Bikini
+0x38bad33b, Fat White
+0x52c824de, Asian
+0x41018151, Asian 2
+0x169bd1e1, Winter
+0xde0e0969, Salton
+0xb097523b, Ghetto
+0xcde955d2, Soucent 1
+0x745855a1, Soucent 2
+0xf322d338, Soucent 3
+0x505603b9, Tourist
+0x8ca0c266, Beach Hobo
+0x48f96f5b, Hobo
+0x61c81c85, Old White Old
+0xbad7bb80, Old Indian
+0x47cf5e96, Old Asian
+0x3dfa1830, Old Soucent
+0xa56de716, Old Soucent 2
+0x163b875b, Barber
+0xe093c5c6, Maid
+0xae47e4b0, Shopper
+0x312b5bc0, Sweatshop
+0x414fa27b, Miranda
+0xa20899e7, Prologue Mourn
+0x35578634, Movie Star
+0xc512dd23, Prologue Hostage
+0xb564882b, Altruist Nude
+0x80e59f2e, Altruist
+0x7e0961b8, Vespuchi Beach
+0xca56fa52, Vespuchi Beach 2
+0xd1feb884, Beach
+0x23c7dc11, Beach 2
+0xe7a963d9, Beach 3
+0x76284640, Beverly Hills
+0x668ba707, Beverly Hills 2
+0x379f9596, Break Dance
+0x9ad32fe9, Business Casual
+0xc99f21c4, Business
+0xb3b3f5e6, Business 2
+0xa1435105, Business 3
+0xfdc653c7, Cyclist
+0xff3e88ab, Stunt Cyclist
+0x2dadf4aa, Down Town
+0xa4471173, East SA
+0x168775f6, East SA 2
+0x77d41a3e, Epsilon
+0xaa82ff9b, Epsilon 2
+0xd1cce036, Gay
+0xa5720781, Gay 2
+0x9877ef71, Generic Street
+0x3521a8d2, Generic Street 2
+0xd71fe131, Golfer
+0xe16d8f01, Hasidic Jew
+0x50f73c0c, Hiker
+0x7d03e617, Hippy
+0x2307a353, Hipster
+0x14d506ee, Hipster 2
+0x4e4179c6, Hipster 3
+0x2a22fbce, Indian
+0x2db7eef3, Beach 4
+0x91ca3e2c, Juggalo
+0x1af6542c, Asian
+0x297ff13f, Asian 2
+0x132c1a8e, Latino
+0x696be0a9, Meth Head
+0x3053e555, Mexican Thug
+0x64fdea7d, Motor Stunt
+0x77ac8fda, Motor Stunt 2
+0x4b652906, Muscle Beach
+0xc923247c, Muscle Beach 2
+0x8384fc9f, Polynesian
+0xf561a4c6, Road Cyclist
+0x25305eee, Runner
+0x843d9d0f, Runner 2
+0xd7606c30, Salton
+0xc1c46677, Skater
+0xaffac2e4, Skater 2
+0xe716bdcb, Soucent
+0xaca3c8ca, Soucent 2
+0xc3f0f764, Soucent 3
+0x8a3703f1, Soucent 4
+0xcf92ade9, Street Black
+0x98c7404f, Street Black 2
+0x8674d5fc, Street Latino
+0x2418c430, Street White
+0x36c6e98c, Street White 2
+0xb7292f0c, Sunbathe
+0xeac2c7ee, Surfer
+0xc19377e7, Vindouche
+0x4b64199d, Vinewood
+0x5d15bd00, Vinewood 2
+0x1fdf4294, Vinewood 3
+0x31c9e669, Vinewood 4
+0xab0a7155, Yoga
+0x62018559, Airport Worker
+0x9e08633d, Ammunation
+0x62cc28e2, Army Mechanic
+0xb2273d4e, Autopsy
+0xe5a11106, Barman
+0xb4a6862, Baywatch
+0xd8f9cd47, Bus Boy
+0xf977ceb, Cook
+0xd7da9e99, Construction
+0xc5fefade, Construction 2
+0xe497bbef, Dealer
+0x867639d1, Dock Worker
+0x75d30a91, DW Service
+0xf5908a06, DW Service 2
+0x4163a158, Factory
+0xb6b1eda8, Fireman
+0xee75a00f, Gargage
+0x309e7dea, Grip
+0x48114518, Pest Control
+0xab300c07, Pilot
+0x5f2113a1, Prison Muscle
+0xb1bb9b59, Prisoner
+0xc05e1399, Robber
+0x6e122c06, Mask Shop
+0x927f2323, Street Vendor
+0x3b96f23e, Valet
+0xad4c724c, Waiter
+0x441405ec, X Mech
+0xbe20fa04, X Mech 2
+0xf0ac2626, Abner
+0xda116e7e, Baby D
+0x5244247d, Baygor
+0x24604b2b, Chip
+0x2d0efceb, Cyclist
+0x85b9c668, FIB Mugger
+0xb3229752, Gun Vendor
+0xf041880b, Hippie
+0xc8bb1e52, Mani
+0x4705974a, Military Hobo
+0x5048b328, Paparazzi
+0x36e70600, Party
+0x7b9b4bc0, Prisoner
+0x6af4185d, Stunt Biker
+0x94ae2b8c, Tattoo Artist
+0x5442c66b, Altruist Nude
+0xd172497e, African American
+0x403db4fd, Beach
+0x787fa588, Beach 2
+0x54dbee1f, Beverly Hills
+0x3fb5c3d3, Beverly Hills 2
+0x7e6a64b7, Business
+0xf9a6f53f, East SA
+0x7dd91ac, East SA 2
+0x94562dd7, Farmer
+0x61d201b3, Fat Latin
+0x6dd569f, Fat
+0x13aef042, Fat 2
+0xa9eb0e42, Golfer
+0x6bd9b68c, Hasidic Jew
+0x6c9b2849, Hill Billy
+0x7b0e452f, Hill Billy 2
+0xddcaaa2c, Indian
+0xd15d7e71, Asian
+0x2fde6eb7, Malibu
+0xdd817ead, Mexican
+0xb25d16b2, Mexican 2
+0x681bd012, OG
+0xecca8c15, Paparazzi
+0xa9d9b69e, Polynesian
+0x9712c38f, Prolhost
+0x3bad4184, Meth Head
+0x4f2e038a, Salton
+0x60f4a717, Salton 2
+0xb28c4a45, Salton 3
+0xd9d7588c, Skater
+0x1eea6bd, Skidrow
+0xb8d69e3, Socenlat
+0x6857c9b7, Soucent
+0x9f6d37e1, Soucent 2
+0x8bd990ba, Soucent 3
+0xc2fbfefe, Soucent 4
+0x546a5344, Tennis
+0xc89f0184, Tourist
+0x53b57eb0, Beach Hobo
+0x1ec93fd0, Hobo
+0xe0e69974, Transvestite
+0xf70ec5c4, Transvestite 2
+0xde9a30a, Ammunation Clerk
+0x40eabe3, Autoshop
+0xf06b849d, Autoshop 2
+0x1a021b83, Country Bar
+0x14d7b4e0, Dock Worker
+0xd47303ac, Docter
+0xa956bd9e, Handyman
+0x49ea5685, Gardener
+0x1880ed06, Transport Gen
+0x418dff92, Hairdresser
+0xa96bd9ec, Janitor
+0x9e80d2ce, Handyman 2
+0xde0077fd, Life Invader
+0xdb9c0997, Cook
+0x765aaae4, LS Metro
+0x7ea4ffa6, Mariachi
+0xed0ce4c6, Migrant
+0xd85e6d28, Movie Premier
+0xb353629e, Paramedic
+0xe75b4b1c, Pilot
+0xf63de8e1, Pilot 2
+0x62599034, Postal
+0x7367324f, Postal 2
+0x4117d39b, Scientist
+0x1c0077fb, Street Preacher
+0xce9113a9, Street Vendor
+0x59511a6c, Trucker
+0x9fc37f22, UPS
+0xd0bde116, UPS 2
+0xad9ef1bb, Busker
+0xf0ec56e2, Aldinapoli
+0x76474545, Bike Hire
+0x342333d3, FIB Architect
+0x2b6e1bb6, Film Director
+0x45bb1666, Glen Stank
+0xc454bcbb, Griff
+0xe6cc3cdc, Jewel Thief
+0x1c95cb0b, Mark Frost
+0x81f74de7, Party Target
+0xce96030b, Prologue Mourn
+0x60d5d6da, Rival
+0xac0ea5d8, Spy Actor
+0x90769a8f, Willy Fist
+0x55446010, Altruist Nude
+0x4ba14cca, Altruist
+0x8427d398, Beach
+0xad54e7a8, Generic Street
+0x1536d95a, Asian
+0x20208e4d, Salton
+0x2ad8921b, Soucent
+0x4086bd77, Soucent 2
+0xe32d8d0, Soucent 3
+0x174d4245, Hobo
+0x46e39e63, Fin Guru
+0x9a1e5e52, Hill Billy
+0x6a8f1f9b, Hobo
+0x158c439c, Fem Ballas
+0x4e0ce5d3, Fem Families
+0xfd5537de, Fem Lost
+0x5aa42c21, Fem Vagos
+0xf1e823a2, Armenian Boss
+0xfda94268, Armenian Goon
+0xe7714013, Armenian Lieutenant
+0xf6157d8f, Chem Worker
+0xb9dd0300, Chinese Boss
+0x106d9a99, Chinese Cold
+0x7e4f763f, Chinese Goon
+0xff71f826, Chinese Goon 2
+0x352a026f, Korean Boss
+0x5761f4ad, Mexican Boss
+0x4914d813, Mexican Boss 2
+0xc54e878a, Armenian Goon
+0x68709618, Azteca
+0xf42ee883, Ballas East
+0x231af63f, Ballas Orig
+0x23b88069, Ballas Out
+0xe83b93b7, Families
+0xdb729238, Families 2
+0x84302b09, Families 3
+0x247502a9, Korean
+0x8fedd989, Korean 2
+0x7ccbe17a, Korean Lieutenant
+0x4f46d607, Lost
+0x3d843282, Lost 2
+0x32b11cdc, Lost 3
+0xbddd5546, Mexican Gang
+0x26ef3426, Mexican Goon
+0x31a3498e, Mexican Goon 2
+0x964d12dc, Mexican Goon 3
+0x4f3fba06, Polynesian Goon
+0xa2e86156, Polynesian Goon 2
+0x905ce0ca, Salvadorian Boss
+0x278c8cb7, Salvadorian Goon
+0x3273a285, Salvadorian Goon 2
+0x3b8c510, Salvadorian Goon 3
+0xfd1c49bb, Street Punk
+0xda1eac6, Street Punk 2
+0x15f8700d, Female Cop
+0x9fc7f637, Female Ranger
+0x4161d042, Female Sheriff
+0x95c76ecd, Armoured
+0x63858a4a, Armoured 2
+0x9fd4292d, Bouncer
+0x2efeafd5, Chem Security
+0x625d6958, CIA Security
+0xedbc7546, FIB Office
+0x26f067ad, FIB Office 2
+0xf161d212, High Security
+0x2930c1ab, High Security 2
+0xf2daa2ed, Marine
+0xf0259d83, Marine 2
+0x56c96fc6, Prison Guard
+0xd768b228, Security
+0x1ae8bb58, Snow Cop
+0xb3f3ee34, Black Ops
+0x7a05fa59, Black Ops 2
+0x5e3da4a4, Cop
+0x9b557274, Devin Security
+0x22911304, Doorman
+0x739b1ef5, Highway Cop
+0x65793043, Marine 3
+0x58d696fe, Marine 4
+0x72c0cad2, Marine 5
+0xef7135ae, Ranger
+0xb144f9b9, Sheriff
+0x8d8f1b10, Swat
+0xca0050e9, Coast Guard
+0xacccbdb6, Jewel Security
+0x28abf95, Hooker 1
+0x14c3e407, Hooker 2
+0x31640ac, Hooker 3
+0x5c14edfa, Stripper 1
+0x52580019, Stripper 2
+0x6e0fb794, Stripper 3
+0x780c01bd, Bartender
+0x4a8e5536, Bay Watch
+0xd7114c9, Michael
+0x9b22dbaf, Franklin
+0x9b810fa2, Trevor
+0x703f106, Anita
+0xa5c787b6, Anton
+0x8cdcc057, Burger Drugdealer
+0xa8c22996, Chin Goon
+0x9ab35f63, Cop
+0xa44f6f8b, Customer
+0xb58d2529, Denise Friend
+0x1bcc157b, Fos Rep
+0xa28e71d7, G
+0xe8594e22, Grove Street Dealer
+0x6f139b54, Hugh
+0xe3420bdb, Imran
+0x613e626c, Merry Weather
+0xf41f399b, Oscar
+0x2f4afe35, Porn Dude
+0xf00b49db, Prologue Driver
+0x7fa2f024, Prologue Security
+0xc2800dbe, Gang
+0x858c94b8, Hic
+0x21f58bb4, Hipster
+0x616c97b9, Marine
+0xf64ed7d0, Mexican
+0x2e420a24, Reporter
+0x400aec41, Abigail
+0x6d1e15f7, Amanda
+0x47e4eea0, Andreas
+0x7ef440db, Ashley
+0xa70b4a92, Ballas OG
+0x909d9e7f, Bankman
+0x2f8845a3, Barry
+0x5746cd96, Bestman
+0xbda21e5c, Beverly
+0xbdbb4922, Brad
+0x6162ec47, Bride
+0x84f9e937, Car 3 Guy 1
+0x75c34aca, Car 3 Guy 2
+0xe0fa2554, Casey
+0x49eadbf6, Chef
+0xaae4ea7b, Cheng Sr
+0x286e54a7, Chris Formage
+0x6ccfe08a, Clay
+0x9d0087a8, Clay Pain
+0xe6631195, Cletus
+0x467415e9, Dale
+0x15cd4c33, Dave Norton
+0x820b33bd, Denise
+0x7461a0b0, Devin
+0x9c2db088, Dom
+0xda890932, Dreyfuss
+0xcbfc0df5, Dr Friedlander
+0xd090c350, Fabien
+0x3ae4a33b, FBI Suit
+0xb1b196b2, Floyd
+0xfece8b85, Groom
+0x65978363, Hao
+0xce1324de, Hunter
+0xd6d9c49, Janet
+0x7a32ee74, Jay Norris
+0xf5d26bb, Jewel Assistant
+0xeda0082d, Jimmy Boston
+0x570462b9, Jimmy De Santa
+0xbe204c9b, Joe Minuteman
+0x87ca80ae, Johnny Klebitz
+0xe11a9fb4, Josef
+0x799e9eee, Josh
+0x5b3bd90d, Kerry Mcintosh
+0x65b93076, Lamar
+0xdfe443e5, Lazlow
+0x4da6e849, Lester
+0x5389a93c, Ricky
+0x27bd51d4, Life Invader
+0xfcdc910a, Magenta
+0xfd418e10, Manuel
+0x188232d0, Marnie
+0xa36f9806, Maryann
+0x3be8287e, Maude
+0xbf9672f4, Michelle
+0xcb3059b2, Milton
+0xaf03dde1, Molly
+0xeddcab6d, Mr K
+0x3862eea8, Mrs Phillips
+0x1e04a96b, Mrs Thronhill
+0xde17dd3b, Natalia
+0xbd006af1, Nervous Ron
+0xc8b7167d, Nigel
+0x719d27f4, Old Man 1
+0xef154c47, Old Man 2
+0x60e6a7d8, Omega
+0x2dc6d3e7, O'Neil
+0x61d4c771, Bigfoot
+0x26a562b7, Ortega
+0x999b00c6, Paper
+0xc56e118c, Patricia
+0x6437e77d, Priest
+0x27b3ad75, Prologue Security
+0xe52e126c, Gang
+0x45753032, Hic
+0xdeef9f6e, Hipster
+0xe6ac74a4, Mex
+0xd5ba52ff, Rocco Pelosi
+0x3d0a5eb1, Drunk Russian
+0xffe63677, Screen Writer
+0x4c7b2f05, Siemon Yeterian
+0x86bdfe26, Solomon
+0x382121c8, Steve Hains
+0x36984358, Stretch
+0xe793c8e8, Talina
+0xd810489, Tanisha
+0xdc5c5ea5, Tao Cheng
+0x7c851464, Tao Translator
+0xa23b5f57, Tennis Coach
+0x67000b94, Terry
+0xcd777aaa, Tom Epsilon
+0xcac85344, Tonya
+0xde352a35, Tracy De Santa
+0x5719786d, Traffic Warden
+0x5265f707, Tyler Dix
+0x92991b72, Wade
+0xb34d6f5, Zimbor
+0x23e9a09e, Poppy
+0xc6b49a2f, Guido
+0x7dc3908f, Justin
+0x64611296, Alien
+0xe7b31432, Astronaut
+0x795ac7a8, Human Statue
+0x4498dde, Clown
+0x3cdca742, Mime
+0x2e140314, Corpse
+0x9c70109d, Corpse 2
+0xd9c72f8, Corpse 3
+0xce2cb751, Jesus
+0x709220c7, Dead Cop
+0x348065f5, Impotent Rage
+0xdc59940d, Pogo
+0x3c438cd2, RS Ranger
+0x9194ce03, Gay Stripper
+0xac4b4506, Zombie
+0xce5ff074, Boar
+0xaab71f62, Chicken Hawk
+0xa8683715, Chimp
+0x56e29962, Cormorant
+0xfcfa9e1e, Cow
+0x644ac75e, Coyote
+0x18012a9f, Crow
+0xd86b5a95, Deer
+0x2fd800b7, Fish
+0x6af51faf, Hen
+0xb11bab56, Pig
+0x6a20728, Pigeon
+0xc3b52966, Rat
+0xd3939dfd, Seagull
+0x6c3f072, Tiger Shark
+0xc2d06f53, Rhesus
+0x431d501c, Poodle
+0xdfb55c81, Rabbit
+0x6d362854, Pug
+0x573201b8, Cat
+0x3df40fc1, Chop 2
+0x8bbab455, Dolphin
+0x471be4b2, Humpback
+0x8d8ac8b9, Killer Whale
+0x3c831724, Hammer Shark
+0xa148614d, Stingray
+0xad7844bb, Westy
+0x4e8f95a2, Husky
+0x1250d7ba, Mountain Lion
+0x349f33e1, Retriever
+0x9563221d, Rottweiler
+0x431fc24c, Shepherd
+0xe71d5e68, Panther
+0x14ec17ea, Chop

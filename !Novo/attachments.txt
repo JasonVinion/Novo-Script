@@ -1,0 +1,105 @@
+Xmas Tree, prop_xmas_tree_int
+Food Van, prop_food_van_01
+Microwave, prop_micro_01
+Safe, p_v_43_safe_s
+Gold Cart, prop_large_gold
+Arm Chair, prop_armchair_01
+Chair, prop_chair_01a
+Cage, prop_gold_cont_01
+Tree, prop_prop_tree_01
+Dumpster, prop_cs_dumpster_01a
+Panties 1, prop_cs_panties
+UFO, p_spinning_anus_s
+Windmill, prop_windmill_01
+Electricity Pylon 1, prop_pylon_01
+Meth Bag, prop_meth_bag_01
+Crack pipe, prop_cs_crackpipe
+Electric Guitar 1, prop_el_guitar_01
+Jukebox 1, prop_jukebox_01
+Bikini Mannequin Blue, prop_bikini_disp_01
+Bikini Mannequin Pink, prop_bikini_disp_04
+Mannequin, prop_dummy_01
+ATM 3, prop_atm_03
+Metal Construction Plate, prop_metal_plates01
+Generator 2, prop_generator_03a
+Construction Trestle 2, prop_byard_bench02
+Sandblock Single, prop_mb_sandblock_01
+Sandblock 3, prop_mb_sandblock_02
+Sandblock U, prop_mb_sandblock_05
+Apartment Door, prop_sc1_12_door
+Union Depository Gate, prop_sec_gate_01c
+Garden Gate R, prop_bh1_03_gate_r
+Construction Fence M 1, prop_const_fence02a
+Blast Fence 1, prop_air_blastfence_01
+Chainlink Fence S, prop_fnclink_02g
+Chainlink Fence Barb Wire, prop_fnclink_04a
+Ghetto Fence L, prop_fnccorgm_02d
+Airport Fence, 0x541bba84
+Airport Gate Slide, prop_facgate_01
+Chainlink Gate Slide L, prop_fnclink_03gate1
+Chainlink Gate S, prop_fnclink_01gate1
+Chainlink Gate M Barb Wire, prop_fnclink_02gate5
+Chainlink Gate S 3, prop_fnclink_02gate7
+Chainlink Gate L, prop_fnclink_03gate4
+Chainlink Gate M Barb Wire, prop_fnclink_06gate2
+Chainlink Fence L 1 (Untargetable), prop_fnclink_10a
+Chainlink Fence L 2 (Untargetable), prop_fnclink_10b
+Chainlink Fence L 5 (Untargetable), prop_fnclink_10e
+Sign 5, stt_prop_corner_sign_01
+Sign 100, stt_prop_corner_sign_04
+Sign Turn Left, stt_prop_corner_sign_08
+Sign Exclaimation, stt_prop_corner_sign_12
+Hoop Big Metal, stt_prop_hoop_constraction_01a
+Bowling Ball, stt_prop_stunt_bowling_ball
+Soccer Ball M, stt_prop_stunt_soccer_ball
+Stunt Flip Medium Right, stt_prop_ramp_adj_flip_m
+Stunt Flip Small Left, stt_prop_ramp_adj_flip_sb
+Multi Loop, stt_prop_ramp_multi_loop_rb
+Stunt Ramp Curve S, stt_prop_ramp_jump_s
+Stunt Ramp Curve XXL, stt_prop_ramp_jump_xxl
+Stunt Ramp S, stt_prop_stunt_jump_s
+Stunt Ramp M, stt_prop_stunt_jump_m
+Huge Stunt Ramp Wide, stt_prop_stunt_wideramp
+Spiral Right Small, stt_prop_ramp_spiral_l_s
+Spiral Left Medium, stt_prop_ramp_spiral_m
+Jetski Ramp, prop_jetski_ramp_01
+Ramp 3, prop_mp_ramp_03
+Huge Platform Square, stt_prop_stunt_bblock_huge_01
+Huge Platform Squre XL, stt_prop_stunt_bblock_huge_04
+Huge Platform Hump 2, stt_prop_stunt_bblock_hump_02
+Platform L3, stt_prop_stunt_bblock_lrg3
+Platform M3, stt_prop_stunt_bblock_mdm3
+Platform S3, stt_prop_stunt_bblock_sml3
+Platform Long 3, stt_prop_stunt_bblock_xl3
+Huge Quarter Pipe 2, stt_prop_stunt_bblock_qp2
+Stunt Tube S, stt_prop_stunt_tube_s
+Stunt Tube Speed Boost, stt_prop_stunt_tube_speed
+Stunt Turn Tube 90 Degrees, stt_prop_stunt_tube_crn
+Stunt Turn Tube Cross, stt_prop_stunt_tube_cross
+Stunt Tube Spinner, stt_prop_stunt_tube_fn_01
+Stunt Tube Spinner Closed 3/4, stt_prop_stunt_tube_fn_04
+Stunt Tube Gap, stt_prop_stunt_tube_gap_01
+Stunt Tube Closed 1/2, stt_prop_stunt_tube_hg
+Stunt Tube XL, stt_prop_stunt_tube_l
+Track Barrier XL, stt_prop_track_straight_bar_l
+Track Barrier S, stt_prop_track_straight_bar_s
+Track M, stt_prop_track_straight_m
+Track Start 1 Long, stt_prop_race_start_line_01b
+Track Start 3 Short, stt_prop_race_start_line_03
+Track Turn 90 Degrees Barrier 2, stt_prop_track_bend2_bar_l_b
+Track Turn 15 Degrees, stt_prop_track_bend_15d
+Track Turn 180 Degrees Barrier, stt_prop_track_bend_180d_bar
+Track Turn 15 Degrees, stt_prop_track_bend_5d
+Track Turn 90 Degrees Barrier Small 2, stt_prop_track_bend_bar_l_b
+Track Turn 90 Degrees Small 2, stt_prop_track_bend_l_b
+Track Narrowing 2, stt_prop_track_block_02
+Track Chicane Left S, stt_prop_track_chicane_l_02
+Track Cross, stt_prop_track_cross
+Road Barrier 1, prop_mp_barrier_01
+Crash Barrier 1, prop_barriercrash_03
+Concrete Barrier Small 2, prop_barier_conc_01c
+Concrete Barrier End 1, prop_barier_conc_03a
+Concrete Barrier Large 2, prop_barier_conc_05b
+Roadblock Arrow, prop_mp_arrow_barrier_01
+Traffic Cone 1c, prop_roadcone01c
+Traffic Cone 2c, prop_roadcone02c

@@ -1,0 +1,76 @@
+** PED SPAWN **: 
+`0`: Micheal
+`1`: Franklin
+`2`: Trevor
+`4`: Male Civilian
+`5`: Female Civilian
+`6`: cop
+`20`: Medic
+`21`: Fireman
+`26`: Human
+`27`: SWAT
+`28`: Animal
+`29`: Army
+
+** COORDS **: 
+`Anti-Crash-Cam`: {-8292.664 -4596.8257 14358.0} 
+`Out Of Bounds `: {173663.281250 915722.000000 362299.750000}
+`Host Crash`: {-6170, 10837, 40}, {10837, -6170, 40}, {-10837, 6267, -40}, 
+
+** PICK UPS**: 
+Pickup Options:
+Casino Playing Card: vw_prop_vw_lux_card_01a
+Action Figure - Boxed doll (Not falling): bkr_prop_coke_boxeddoll
+Action Figure - Sasquatch: vw_prop_vw_colle_sasquatch
+Action Figure - Beast: vw_prop_vw_colle_beast
+Action Figure - Green guy: vw_prop_vw_colle_rsrgeneric
+Action Figure - Other green guy: vw_prop_vw_colle_rsrcomm
+Action Figure - Pogo: vw_prop_vw_colle_pogo
+Action Figure - Bubble: vw_prop_vw_colle_prbubble
+Action Figure - Imporage: vw_prop_vw_colle_imporage
+Action Figure - Alien: vw_prop_vw_colle_alien
+
+0x9C6A0C42: MPPLY_GRIEFING
+0x62EB8C5A: MPPLY_VC_ANNOYINGME
+0x0E7072CD: MPPLY_VC_HATE
+0x762F9994: MPPLY_TC_ANNOYINGME
+0xB722D6C0: MPPLY_TC_HATE
+0x3CDB43E2: MPPLY_OFFENSIVE_LANGUAGE
+0xE8FB6DD5: MPPLY_OFFENSIVE_TAGPLATE
+0xF3DE4879: MPPLY_OFFENSIVE_UGC
+0xAA238FF0: MPPLY_BAD_CREW_NAME
+0x03511A79: MPPLY_BAD_CREW_MOTTO
+0x3B566D5C: MPPLY_BAD_CREW_STATUS
+0x368F6FD9: MPPLY_BAD_CREW_EMBLEM
+0xCBFD04A4: MPPLY_GAME_EXPLOITS
+0x9F79BA0B: MPPLY_EXPLOITS
+
+103019313 DigitalKitsune      
+103054099 DigitalFox9         
+104041189 FoxesAreCool69      
+110470958 huginn6767          
+119266383 xCuteBunny          
+119958356 random_123          
+121397532 flyingcobra16       
+121698158 CriticalRegret      
+123839036 Highhunt            
+123849404 bipolarcarp         
+127531278 prosolo45473  
+127878077 JohnnyOnThaSpotf    
+121943600 HammerDaddy69             
+129159629 Kakorot02                 
+18965281 ScentedPotter             
+216820	random123                 
+56778561 Huginn5                   
+99453545 BrexitToTheKnees          
+99453882 SweetPlumbus
+10612782 Tomer077x      
+18914188 MarissaB
+20393503 kapelot - bm dev
+66072408 Best_Greeny_EU - bm dev
+132329548 rain - bm dev
+134412628 shibuz_gamer123
+133709045 PayneInUrAbs
+64234321 StrongBelwas1
+131973478 RossThetic
+137579070 M1thras
