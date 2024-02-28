@@ -49,8 +49,39 @@ function performUpdateCheck()
     local protectionsPath = mainpath .. "\\scripts\\!Novo\\Lib\\protections_novo.lua"
     local testingPath = mainpath .. "\\scripts\\!Novo\\Lib\\testing_novo.lua"
     local hintsPath = mainpath .. "\\scripts\\!Novo\\Lib\\hints_novo.lua"
-    
-    local remoteVersionUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/Version.txt"
+
+    local remoteVersionUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Version.txt"
+    local remoteMainluaUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!NovoScript.lua"
+    local remoteVehNamesUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/veh_names.txt"
+    local remotePickupsUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/pickup.txt"
+    local remoteDebugLogUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/debug.txt"
+    local remoteAttachObjUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/attachments.txt"
+    local remoteAttachPedsUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/attach_peds.txt"
+    local remoteAttachVehUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/attach_veh.txt"
+    local remotePtfxUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/ptfx.txt"
+    local remoteSoundDataUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/sounds.txt"
+    local remoteBlacklistUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/blacklist.txt"
+    local remoteArrayUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/array_novo.lua"
+    local remoteFuncUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/func_novo.lua"
+    local remoteVehOptionsUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/veh_options_novo.lua"
+    local remoteTrollingUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/trolling_novo.lua"
+    local remoteGriefingUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/Griefing_novo.lua"
+    local remoteAttackersUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/attackers_novo.lua"
+    local remoteRockstarEventsUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/rockstar_events_novo.lua"
+    local remoteHealthUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/health_novo.lua"
+    local remoteSessionUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/session_novo.lua"
+    local remoteSessionVehUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/session_veh_novo.lua"
+    local remoteSelfUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/self_novo.lua"
+    local remoteBlockVehUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/block_veh_novo.lua"
+    local remoteCagesUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/cages_novo.lua"
+    local remoteTrafficUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/traffic_novo.lua"
+    local remoteMaliciousUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/malicious_novo.lua"
+    local remoteSessionMaliciousUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/session_malicious_novo.lua"
+    local remoteCustomEntitiesUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/Custom_Entities_novo.lua"
+    local remoteFriendlyUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/friendly_novo.lua"
+    local remoteProtectionsUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/protections_novo.lua"
+    local remoteTestingUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/testing_novo.lua"
+    local remoteHintsUrl = "https://raw.githubusercontent.com/JasonVinion/Novo-Script/main/!Novo/Lib/hints_novo.lua"
 
     -- Read local version
     local localVersionFile = io.open(localVersionPath, "r")
@@ -74,15 +105,57 @@ function performUpdateCheck()
     if response_body:match("%S") ~= localVersion:match("%S") then  -- using match to ignore whitespace
         print("Update available. Starting update process...")
         menu.notify("Update available. Starting update process...", "Novo script", 9, 50)
+        -- open the local files, write the remote file contents to them, then close them
+
+        local fileMappings = {
+            [mainluaPath] = remoteMainluaUrl,
+            [veh_names_path] = remoteVehNamesUrl,
+            [pickups_path] = remotePickupsUrl,
+            [debug_log_path] = remoteDebugLogUrl,
+            [attach_obj_path] = remoteAttachObjUrl,
+            [attach_peds_path] = remoteAttachPedsUrl,
+            [attach_veh_path] = remoteAttachVehUrl,
+            [ptfx_path] = remotePtfxUrl,
+            [sound_data_path] = remoteSoundDataUrl,
+            [blacklistPath] = remoteBlacklistUrl,
+            [arrayPath] = remoteArrayUrl,
+            [funcPath] = remoteFuncUrl,
+            [veh_optionsPath] = remoteVehOptionsUrl,
+            [trollingPath] = remoteTrollingUrl,
+            [GriefingPath] = remoteGriefingUrl,
+            [attackersPath] = remoteAttackersUrl,
+            [rockstar_eventsPath] = remoteRockstarEventsUrl,
+            [healthPath] = remoteHealthUrl,
+            [sessionPath] = remoteSessionUrl,
+            [session_vehPath] = remoteSessionVehUrl,
+            [selfPath] = remoteSelfUrl,
+            [block_vehPath] = remoteBlockVehUrl,
+            [cagesPath] = remoteCagesUrl,
+            [trafficPath] = remoteTrafficUrl,
+            [maliciousPath] = remoteMaliciousUrl,
+            [session_maliciousPath] = remoteSessionMaliciousUrl,
+            [Custom_EntitiesPath] = remoteCustomEntitiesUrl,
+            [friendlyPath] = remoteFriendlyUrl,
+            [protectionsPath] = remoteProtectionsUrl,
+            [testingPath] = remoteTestingUrl,
+            [hintsPath] = remoteHintsUrl
+        }
+
+        for localPath, remoteUrl in pairs(fileMappings) do
+            local file = io.open(localPath, "w")
+            file:write(web.get(remoteUrl))
+            file:close()
+        end
+
+        print("Update complete. Please reload the script.")
+        menu.notify("Update complete. Please reload the script.", "Novo script", 9, 50)
+        
 
         -- updateScript(mainpath)  -- Uncomment this when the updateScript function is defined
     else
         print("No updates available.")
         menu.notify("No updates available", "Novo script", 9, 50)
     end
-    -- notify of current and other version 
-    menu.notify("Current Version: " .. localVersion, "Novo script", 9, 50)
-    menu.notify("Latest Version: " .. response_body, "Novo script", 9, 50)
 end
 
 function startUpdateCheck()
