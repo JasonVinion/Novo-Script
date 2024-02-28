@@ -141,10 +141,24 @@ function performUpdateCheck()
             [hintsPath] = remoteHintsUrl
         }
 
+        -- Assuming 'web.get' function exists and is capable of fetching remote file content
         for localPath, remoteUrl in pairs(fileMappings) do
-            local file = io.open(localPath, "w")
-            file:write(web.get(remoteUrl))
-            file:close()
+            local response_code, response_body = web.get(remoteUrl)
+            if response_code == 200 then
+                local file = io.open(localPath, "w")
+                if file then
+                    file:write(response_body)
+                    file:close()
+                    print("Updated: " .. localPath)
+                    menu.notify("Updated: " .. localPath, "Update Success", 7, 25)
+                else
+                    print("Failed to open file for writing: " .. localPath)
+                    menu.notify("Failed to open file for writing: " .. localPath, "Error", 9, 50)
+                end
+            else
+                print("Failed to fetch: " .. remoteUrl)
+                menu.notify("Failed to fetch: " .. remoteUrl, "Error", 9, 50)
+            end
         end
 
         print("Update complete. Please reload the script.")
